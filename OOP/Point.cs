@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Point_and_Polygon
+namespace PointandPolygon
 {
     public class Point
     {

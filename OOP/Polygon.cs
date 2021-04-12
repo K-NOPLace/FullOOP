@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Point_and_Polygon
+namespace PointandPolygon
 {
     public class Polygon
     {

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-Console.ForegroundColor = ConsoleColor.Green;
-Console.BackgroundColor = ConsoleColor.DarkGreen;
+
 namespace Shape
 {
     class Program
